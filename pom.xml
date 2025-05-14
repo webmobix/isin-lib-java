@@ -7,7 +7,7 @@
 
   <groupId>com.webmobix.util</groupId>
   <artifactId>isin</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
 
   <name>isin</name>
   <url>https://github.com/webmobix/isin-lib-java</url>
